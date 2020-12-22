@@ -41,16 +41,16 @@ function Home() {
               <p>
                 I've quickly begun exploring more indepth what can be done
                 within the world of Web Development and beyond. At the moment I
-                have an internship with
-                <b>TN Integrated Solutions</b>. This internship has helped me
-                discover that i enjoy writing tests for functions and solving
-                any problems or puzzles our code reveals. From this opportunity
-                I have alreayd begun to expand my knowledge. I have been apart
-                of numerous projects developing and designing websites for
-                clients as well as writing tests in PHPUnit to write more
-                effiecient code as well as debug. I am hoping to learn more
-                about the freelance opportunities, servers, managing databases,
-                testing code and using other languages as well for development.
+                have an internship with <b>TN Integrated Solutions</b>. This
+                internship has helped me discover that i enjoy writing tests for
+                functions and solving any problems or puzzles our code reveals.
+                From this opportunity I have alreayd begun to expand my
+                knowledge. I have been apart of numerous projects developing and
+                designing websites for clients as well as writing tests in
+                PHPUnit to write more effiecient code as well as debug. I am
+                hoping to learn more about the freelance opportunities, servers,
+                managing databases, testing code and using other languages as
+                well for development.
               </p>
             </div>
             <div className="col-md-6">
